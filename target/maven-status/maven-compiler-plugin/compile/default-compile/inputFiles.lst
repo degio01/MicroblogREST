@@ -1,0 +1,17 @@
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\logout.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\entity\Utente.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\UtenteJpaController.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\CommentoJpaController.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\exceptions\PreexistingEntityException.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\createComment.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\createPost.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\login.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\PostJpaController.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\exceptions\IllegalOrphanException.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\controlloCommento.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\registrazione.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\entity\Post.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\controlloUtente.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\servlet\viewPost.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\entity\Commento.java
+C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\src\main\java\com\mycompany\microblog_degiorgi\controller\exceptions\NonexistentEntityException.java

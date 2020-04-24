@@ -1,0 +1,16 @@
+Mon Apr 20 18:24:54 CEST 2020 : Apache Derby Server di rete: 10.8.3.2 - (1557835) avviato e pronto ad accettare connessioni sulla porta 1527
+----------------------------------------------------------------
+Mon Apr 20 18:25:01 CEST 2020:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): istanza a816c00e-0171-9868-0752-000074159cd3
+su directory database C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\database_DeGiorgi\Microblog_database  con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Program Files\Java\jdk1.7.0_80\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Nicolò\Documents\NetBeansProjects\Microblog_DeGiorgi\database_DeGiorgi
+Programma di caricamento classe database avviato - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Apr 20 18:30:26 CEST 2020: arresto in corso del motore di Derby
